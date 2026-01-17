@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Gurpreet2308
-- 👀 I’m interested in coding
+- 👋 Hi, I’m @31CodeBase
+- 👀 I’m interested in Automation and AI
 - 🌱 I’m currently working at Lloyd's Banking Group
 - 💞️ I’m looking to collaborate on new and interesting projects
 - 📫 How to reach me - linked Profile - https://www.linkedin.com/in/gurpreet-kaur-85319a181/
